@@ -1,5 +1,5 @@
 # System Zarządzania Biblioteką
-## Autor: Aleks Czarnecki
+Autor: **Aleks Czarnecki**
 
 Ten projekt zawiera kompletny skrypt SQL do utworzenia i obsługi systemu zarządzania biblioteką w bazie danych Oracle. Skrypt definiuje strukturę bazy, relacje, mechanizmy integralności oraz przykładowe dane.
 
